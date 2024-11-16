@@ -1,4 +1,5 @@
 # ProjetoRegressaoLinear
+Por Larissa Ribeiro Firminio e Álisson Natan dos Anjos Pinheiro
 
 ### Código em Markdown
 
