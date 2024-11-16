@@ -62,6 +62,4 @@ O modelo demonstrou desempenho razoável, capturando tendências principais na t
 ---
 
 *Contribuições são bem-vindas. Para melhorias, crie um pull request ou abra uma issue no repositório GitHub.*
-```
 
-Salve este conteúdo em um arquivo chamado `README.md` no diretório do seu projeto.
